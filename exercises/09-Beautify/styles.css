@@ -1,29 +1,60 @@
 #div1 {
 	background-color: red;
-	width: 150px;
+	border-radius: 50px;
 	float: left;
 	height: 100px;
 	padding: 100px;
 	text-align: center;
-	border-radius: 50px;
+	width: 150px;
 }
 #div2 {
 	background-color: blue;
-	height: 100px;
-	width: 150px;
-	padding: 25px;
-	color: white;
-	text-align: center;
-	overflow: hidden;
 	border-radius: 25px;
+	color: white;
+	height: 100px;
+	overflow: hidden;
+	padding: 25px;
+	text-align: center;
+	width: 150px;
 }
 #div3 {
 	background-color: yellow;
-	height: 100px;
-	width: 150px;
-	padding: 25px;
-	color: white;
-	text-align: center;
-	overflow: hidden;
 	border-radius: 25px;
+	color: white;
+	height: 100px;
+	overflow: hidden;
+	padding: 25px;
+	text-align: center;
+	width: 150px;
+}
+
+#div4 {
+	background-color: blue;
+	border-radius: 50px;
+	float: left;
+	height: 100px;
+	padding: 100px;
+	text-align: center;
+	width: 150px;
+}
+
+#div5 {
+	background-color: red;
+	border-radius: 25px;
+	color: white;
+	height: 100px;
+	overflow: hidden;
+	padding: 25px;
+	text-align: center;
+	width: 150px;
+}
+#div6 {
+	background-color: black;
+	border-radius: 25px;
+	color: white;
+	height: 100px;
+	overflow: hidden;
+	padding: 25px;
+	text-align: center;
+	width: 150px;
 }

@@ -1,26 +1,4 @@
 /* your code here */
-h1 {
-	margin: 0 0 10px 0;
-}
-
-.wrapper {
-	margin: 10px;
-}
-
-.secondWrapper {
-	display: flex;
-	gap: 10px;
-	width: 100%;
-	margin-top: 10px;
-}
-
-nav {
-	width: 20%;
-}
-
-section {
-	width: 80%;
-}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
@@ -46,6 +24,7 @@ header,
 nav,
 section {
 	border: 1px solid rgba(255, 255, 255, 0.8);
+	margin-bottom: 10px;
 	border-radius: 3px;
 }
 

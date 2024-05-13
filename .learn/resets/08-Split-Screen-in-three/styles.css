@@ -1,20 +1,12 @@
 body {
 	margin: 0;
 }
-
-#wrapper {
-	display: flex;
-}
-
 #sectionA {
-	width: 33%;
 	background: blue;
 }
 #sectionB {
-	width: 33%;
 	background: red;
 }
 #sectionC {
-	width: 33%;
 	background: green;
 }
